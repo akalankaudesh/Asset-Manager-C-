@@ -12,8 +12,12 @@ Asset Manager is an management software tool to manage organizational assets. It
 
 In this page menu you can view the all the asset in the organization, search asset, add new asset types and delete assets. All of those functionalities include in the **asset** section.
 
-    ![Assets](./screenshots/main.JPG) 
-    ![Add new Asset](./screenshots/new asset.JPG) 
-    ![Services](./screenshots/services.JPG) 
-    ![Reports](./screenshots/jasper.JPG) 
+## Main Screen
+![Assets](./screenshots/main.JPG) 
+## Add new Asset
+![Add new Asset](./screenshots/new_asset.JPG) 
+## Services
+![Services](./screenshots/services.JPG) 
+## Reports
+![Reports](./screenshots/jasper.JPG) 
  
